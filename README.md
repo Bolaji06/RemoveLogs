@@ -1,5 +1,6 @@
 # Remove Logging Statements - VSCode Extension
-![Extension Icon](./assets/icon.png)
+![Extension Icon](https://github.com/Bolaji06/RemoveLogs/blob/main/src/assets/logo.png)
+
 This VSCode extension helps you quickly remove all logging statements (like console.log, console.warn, and custom logger methods) from your code. It works across any open file or files within a workspace.
 
 ## Features
