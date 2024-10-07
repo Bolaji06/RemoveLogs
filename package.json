@@ -3,6 +3,8 @@
   "displayName": "RemoveLogs",
   "description": "",
   "version": "0.0.1",
+  "icon": "./assets/logo.png",
+  "publisher": "Bolaji Joshua Bolajoko",
   "engines": {
     "vscode": "^1.94.0"
   },
@@ -19,7 +21,7 @@
           "items": {
             "type": "string"
           },
-          "default": ["myLogger", "print"],
+          "default": ["myLogger"],
           "description": "Specify custom logger to remove in addition to console.log."
         }
       }
