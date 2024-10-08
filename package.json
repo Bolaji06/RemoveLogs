@@ -3,8 +3,7 @@
   "displayName": "RemoveLogs",
   "description": "",
   "version": "0.0.1",
-  "icon": "./assets/logo.png",
-  "publisher": "Bolaji Joshua Bolajoko",
+  "publisher": "Bolaji-Joshua-Bolajoko",
   "engines": {
     "vscode": "^1.94.0"
   },
